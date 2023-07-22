@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @NimraMushtaq
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Html and CSS
+- 🌱 I’m currently learning React js
 - 💞️ I’m looking to collaborate on web development
-- 📫 How to reach me? through my email
+- 📫 How to reach me? through my email nimramushtaqk@gmail.com
 
 <!---
 NimraMushtaq/NimraMushtaq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
